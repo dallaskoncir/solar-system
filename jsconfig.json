@@ -47,6 +47,11 @@
       "meteor/react-meteor-data": [
         "/home/dkoncir/.meteor/packages/react-meteor-data/3.0.2/web.browser/index.js",
         "/home/dkoncir/.meteor/packages/react-meteor-data/3.0.2/web.browser/suspense/index.js"
+      ],
+      "meteor/accounts-password": [
+        "/home/dkoncir/.meteor/packages/accounts-password/3.0.2/web.browser/password_client.js",
+        "/home/dkoncir/.meteor/packages/accounts-password/3.0.2/web.browser/email_templates.js",
+        "/home/dkoncir/.meteor/packages/accounts-password/3.0.2/web.browser/password_server.js"
       ]
     }
   },
